@@ -92,7 +92,7 @@
 <a href="https://twitter.com/mattwoPhre" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/matteophre" target="_blank">
+<a href="https://stackoverflow.com/users/5445868/matteophre" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
