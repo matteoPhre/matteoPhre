@@ -106,7 +106,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=patasarru10&cover_image=true&theme=novatorem" /></div>  
+
 
 <br/>  
 
